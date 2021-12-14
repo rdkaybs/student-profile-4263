@@ -7,7 +7,7 @@ Please read the following details before you click 'Mark as Done' to your submis
 3. Here is an example of how we will test your code 
 
 ```bash
-git clone https://github.com/rdkaybs/test-student.git
+git clone https://github.com/rdkaybs/test-students.git
 npm install # or yarn install
 npm start  
 ```
